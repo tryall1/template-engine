@@ -1,0 +1,18 @@
+{
+    "name": "vendor/template-engine",
+    "description": "template-engine",
+    "authors": [
+        {
+            "name": "Iliya",
+            "email": "genial712@gmail.com"
+        }
+    ],
+ 
+    "autoload":{
+	"psr-4":{
+		"TemplateEngine\\":"src"	   
+	}
+    }
+}
+
+
