@@ -3,7 +3,6 @@ namespace TemplateEngine;
 
 class Template
 {
-    private $vars = array();
     private $debug = true;
 
 
@@ -19,5 +18,3 @@ class Template
         }
     }
 }
-
-?>

@@ -21,8 +21,3 @@ $data['img'] = "images/posts/1.jpg";
 $data['content'] = $view->render("content.php", $data);
 
 echo $view->render("main.php", $data);
-
-
-?>
-
-
