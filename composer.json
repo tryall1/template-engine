@@ -7,11 +7,11 @@
             "email": "genial712@gmail.com"
         }
     ],
- 
-    "autoload":{
-	"psr-4":{
-		"TemplateEngine\\":"src"	   
-	}
+
+    "autoload": {
+        "psr-4": {
+            "TemplateEngine\\": "src"
+        }
     }
 }
 

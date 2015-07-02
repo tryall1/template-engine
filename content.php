@@ -1,9 +1,9 @@
 <ul>
-	<?php foreach($links as $link):?>
-		<li><?php echo $link; ?></li>
-	<?php endforeach; ?>
+    <?php foreach ($links as $link): ?>
+        <li><?php echo $link; ?></li>
+    <?php endforeach; ?>
 </ul>
 <div>
-	<?php echo $body;?>
-	<img src="<?php echo $img;?>"/>
+    <?php echo $body; ?>
+    <img src="<?php echo $img; ?>"/>
 </div>
